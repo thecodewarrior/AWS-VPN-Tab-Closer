@@ -10,7 +10,10 @@
 
   "browser_specific_settings": {
     "gecko": {
-      "id": "{1ba63083-fc9f-46e6-bb5c-8c1fc5592bc1}"
+      "id": "{1ba63083-fc9f-46e6-bb5c-8c1fc5592bc1}",
+      "data_collection_permissions": {
+        "required": ["none"]
+      }
     }
   },
 
