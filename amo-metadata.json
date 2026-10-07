@@ -10,7 +10,7 @@
     "tabs"
   ],
   "version": {
-    "license": "LGPL-3.0-or-later",
+    "license": "LGPL-3.0-only",
     "approval_notes": "The content script runs on all 127.0.0.1 URLs because I can't filter to a specific port, but it's a no-op for anything other than the AWS VPN port"
   }
 }
